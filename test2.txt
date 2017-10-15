@@ -1,5 +1,5 @@
 qqhello
-ÄãºÃ
+ï¿½ï¿½ï¿½ï¿½
 
 
 
@@ -8,4 +8,5 @@ hello2
 
 helloworld
 
-fuck£¡
+
+hihi
